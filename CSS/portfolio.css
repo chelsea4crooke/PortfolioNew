@@ -2,13 +2,9 @@ body {
     background: url(pexels-photo-1216345.jpeg);
     background-size: cover;
 }
-.carousel-caption {
-    color: #132A13;
-    background:#C5EBC3;
-    border: 1px solid #132A13;
+.title{
+    color: #C5EBC3; 
 }
-.port1, .port2, .port3, .port4, .port5{
-    border: 8px solid #132A13;
-    padding: 15px;
-    background: #C5EBC3;
+.pic {
+    border: solid 2px #C5EBC3;
 }
