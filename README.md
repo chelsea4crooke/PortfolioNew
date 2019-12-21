@@ -18,8 +18,8 @@ https://chelsea4crooke.github.io/PortfolioNew/
 
 ### **Technologies Used:**
 
-Html
-Css
-Bootstrap
-GitHub
-Git
+1. Html
+2. Css
+3. Bootstrap
+4. GitHub
+5. Git
